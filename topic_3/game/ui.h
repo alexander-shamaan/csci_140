@@ -13,6 +13,7 @@ void processMove(Move);
 void printLine();
 void printRow(uint64_t);
 
+
 #endif /* UI_H */
 
 //called an include guard, only goes in header files
