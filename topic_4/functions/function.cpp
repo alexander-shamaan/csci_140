@@ -20,3 +20,15 @@ void swap(int& a, int& b)
     a = b;
     b = a;
 }
+
+void printInt()
+{
+    
+    std::cout << 10 << std::endl;
+}
+
+void printInt(int i)
+{
+    
+    std::cout << i << std::endl;
+}
